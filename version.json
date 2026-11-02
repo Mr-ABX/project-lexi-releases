@@ -1,0 +1,16 @@
+{
+  "version": "1.2.0",
+  "name": "Project Lexi v1.2.0",
+  "releaseDate": "2026-11-03",
+  "minAppVersion": "1.0.0",
+  "notes": "Native macOS Cockpit Dashboard window, sub-0.7s voice latency, acoustic wake aliases, and proactive wellness reminders.",
+  "downloadUrl": "https://github.com/Mr-ABX/project-lexi-releases/releases",
+  "changelog": [
+    "Native macOS Cockpit Dashboard Window (1280x860, Dark Aqua styling)",
+    "Sub-0.7s voice silence threshold for ultra-responsive wake turnarounds",
+    "Expanded phonetic wake aliases (lakshya, russia, lexie, galaxy, siri)",
+    "Proactive wellness & smart voice reminder engine (hydration, posture, git commit)",
+    "Polar.sh license seat enforcement and v1 certificate smooth migration",
+    "Live remote update notification banner and real-time telemetry polling"
+  ]
+}
